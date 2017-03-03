@@ -1,0 +1,6 @@
+c:\users\greedy\documents\visual studio 2013\Projects\TSP\GA_Example_TSP\GA_TSP\bin\Debug\GA_TSP.exe.config
+c:\users\greedy\documents\visual studio 2013\Projects\TSP\GA_Example_TSP\GA_TSP\bin\Debug\GA_TSP.exe
+c:\users\greedy\documents\visual studio 2013\Projects\TSP\GA_Example_TSP\GA_TSP\bin\Debug\GA_TSP.pdb
+c:\users\greedy\documents\visual studio 2013\Projects\TSP\GA_Example_TSP\GA_TSP\obj\Debug\GA_TSP.exe
+c:\users\greedy\documents\visual studio 2013\Projects\TSP\GA_Example_TSP\GA_TSP\obj\Debug\GA_TSP.pdb
+c:\users\greedy\documents\visual studio 2013\Projects\TSP\GA_Example_TSP\GA_TSP\obj\Debug\GA_TSP.csprojResolveAssemblyReference.cache
